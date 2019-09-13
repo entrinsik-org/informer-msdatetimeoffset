@@ -1,0 +1,19 @@
+{
+  "name": "informer-msdatetimeoffset",
+  "version": "1.0.0",
+  "description": "Handles non JDBC standard MS SQL Server datetimeoffset column types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/entrinsik-org/informer-msdatetimeoffset.git"
+  },
+  "author": "Andrew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/entrinsik-org/informer-msdatetimeoffset/issues"
+  },
+  "homepage": "https://github.com/entrinsik-org/informer-msdatetimeoffset#readme"
+}
